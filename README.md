@@ -2,7 +2,7 @@
 
 Quick Start:
 ------------
-https://github.com/dustydevelops/tradeBot.git
+download zip file @ https://github.com/dustydevelops/tradeBot.git
 
 open the tradeBot.zip file 
 
