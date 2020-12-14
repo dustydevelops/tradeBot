@@ -2,7 +2,6 @@
 # whats your phone number?
 phone = 'xxx-xxx-xxxx'
 
-
 # these are the api key credentials we get from coinbase.
 key = '780870d2dfdfebxxxxxxxaad6eb008dasa1' 
 secret ='ahahEgxLEabH9OLTD5TSrPJ71lTxxxxxxxxxxxxxxxxxxxxUWrCSTLdQp65cB/6igexmQLDVQ9mJtRRyRDG961hNsg=='
@@ -18,8 +17,8 @@ coins = ['BAL','BCH','BTC','EOS','ETC','ETH','FIL','KNC','LRC','LTC','MKR','NMR'
 #  The amount of coins you have chosen to trade:
 coinCount = 24
 # the amount of us dollar to be spent on buying into a coin:
-volume = 33.33
-# The amount of coin to be sold each time: (dont erase any of these )
+volume = 36.00
+# The amount of coin to be sold each time: 
 balSize = 2.17
 bchSize = 0.125
 btcSize = 0.0018
