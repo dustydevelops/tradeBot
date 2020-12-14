@@ -1,12 +1,12 @@
 
 # whats your phone number?
-phone = '8012896935'
+phone = 'xxx-xxx-xxxx'
 
 
 # these are the api key credentials we get from coinbase.
-key = '780870d2bfebf45ff0aad6eb008f24a1' 
-secret ='ahahEgxLEabH9OLTD5TSrPJ71lTynEybj34DXPFvdD/UWrCSTLdQp65cB/6igexmQLDVQ9mJtRRyRDG961hNsg=='
-phrase ='0aq45zccn4rk'
+key = '780870d2dfdfebxxxxxxxaad6eb008dasa1' 
+secret ='ahahEgxLEabH9OLTD5TSrPJ71lTxxxxxxxxxxxxxxxxxxxxUWrCSTLdQp65cB/6igexmQLDVQ9mJtRRyRDG961hNsg=='
+phrase ='0axxxxxxxcn4rx'
 
 # want text updates?
 textUpdates = 'on'
