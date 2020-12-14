@@ -180,7 +180,7 @@ while True:
     
     if size > owned and side == buy:
       print('Please open tuna.py and adjust the',currency,'settings. you own:',owned,'it is set to sell:',size)
-    
+      break
     
     time.sleep(.5)
     print(currency)
